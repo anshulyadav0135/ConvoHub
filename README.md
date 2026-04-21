@@ -33,8 +33,9 @@ ConvoHub is a full-stack real-time chat application that enables users to commun
 
 ---
 
-## Project Structure ```
+## Project Structure 
 
+```
 ConvoHub/
 │── backend/
 │   ├── config/
