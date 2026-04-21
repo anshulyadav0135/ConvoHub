@@ -1,6 +1,6 @@
 # ConvoHub
 
-ConvoHub is a full-stack real-time chat application that enables users to communicate instantly through one-to-one and group conversations. It is built using a modern web stack with a focus on responsiveness and efficient backend communication.
+CConvoHub is a MERN-based real-time chat application that supports one-to-one and group messaging with secure authentication and a responsive user interface. It is built using a modern web stack with a focus on responsiveness and efficient backend communication.
 
 ---
 
